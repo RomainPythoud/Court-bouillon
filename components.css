@@ -23,7 +23,6 @@ ul li a{
 
 ul li a: hover{   /* quand survol avec la souris*/
   background-color: black;
-  color: white;
   border-color:#696969 #DCDCDC #DCDCDC #696969;
 }
   
