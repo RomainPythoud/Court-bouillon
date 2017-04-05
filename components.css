@@ -5,7 +5,7 @@ ul{     /* Pour mettre à l'horizontale et espacer (list...)*/
 }
 
 li{
-  margin-left:2px;    /*Met un espace entre chaque li */
+  margin-left:20px;    /*Met un espace entre chaque li */
 }
 
 ul li a{
