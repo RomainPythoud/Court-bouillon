@@ -4,3 +4,28 @@ ul{     /* Pour mettre à l'horizontale et espacer (list...)*/
   list-style-type:none ; 
 }
 
+li{
+  margin-left:2px;    /*Met un espace entre chaque li */
+}
+
+ul li a{
+  display:block; /*pour pas qu'ils s'empiles */
+  float:left;  /*pour qu'ils se mettent a droite */
+  width:100px; /*taille*/
+  background-color: yellow;
+  color: black;
+  text-decoration:none;
+  text-align:center;
+  padding:5px;
+  border:2px solid;
+  border-color:#DCDCDC #696969 #696969 #DCDCDC; /*effet */
+}
+
+ul li a: hover{   /* quand survol avec la souris*/
+  background-color: black;
+  color: white;
+  border-color:#696969 #DCDCDC #DCDCDC #696969;
+  
+  
+  
+    
