@@ -21,7 +21,7 @@ ul li a{
   border-color:#DCDCDC #696969 #696969 #DCDCDC; /*effet */
 }
 
-ul li a: hover{   /* quand survol avec la souris*/
+ul li a:hover{   /* quand survol avec la souris*/
   background-color: black;
   border-color:#696969 #DCDCDC #DCDCDC #696969;
 }
